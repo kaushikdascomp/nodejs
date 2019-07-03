@@ -1,7 +1,7 @@
 # nodejs
 Node JS with Socket Programming and connections to MongoDB
 
-Starting the server
+Starting the server: 
 nodemon ./server.js
 
 You should get the response as 
